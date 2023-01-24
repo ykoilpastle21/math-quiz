@@ -1,0 +1,23 @@
+body{
+    background-image: url("bg 1.png");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: aqua;
+    letter-spacing: 3px;
+    font-variant: small-caps;
+}
+.login_div{
+    background-color: brown;
+    padding: 20px;
+    margin: 20px;
+    float: none;
+    border-radius: 15px;
+}
+#player1,#player2{
+    display: inline-block;
+}
+.login_div h2{
+    color: aqua;
+}
