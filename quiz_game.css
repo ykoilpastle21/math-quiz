@@ -21,3 +21,11 @@ h1{
 .login_div h2{
     color: aqua;
 }
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid yellowgreen;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
